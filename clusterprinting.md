@@ -37,3 +37,15 @@ Die Gruppen-Ausgabe wird direkt auf dem generierenden Server angestossen:
 ```
 
 Effekt: Der Gruppen-Ausdruck erfolgt nur noch 1 Mal.
+
+
+## Zoom auf den Generierungsserver
+
+
+```mermaid
+  graph TD;
+      A[Generierungsserver]--Generierung_beendet-->B[Update Generierungsstatus];
+      A-->T[Test Generierungsstatus];
+      T-->O[Gruppen Ausgabe];
+```
+
