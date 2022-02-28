@@ -44,8 +44,11 @@ Effekt: Der Gruppen-Ausdruck erfolgt nur noch 1 Mal.
 
 ```mermaid
   graph TD;
-      A[Generierungsserver]--Generierung_beendet-->B[Update Generierungsstatus];
-      A-->T[Test Generierungsstatus];
+      A[Generierungsserver]-->G[Generierung];
+      G--Generierung_beendet-->C[Event Konsument = neuer Thread];
+      C-->B[Update Generierungsstatus];
+      G-->T[Test alle generiert?];
       T-->O[Gruppen Ausgabe];
 ```
 
+Da der Update des Generierungsstatus in einem separaten Thread statt findet, kann es sein dass beim Test der Status auf der RDB noch nicht sichtbar ist.
