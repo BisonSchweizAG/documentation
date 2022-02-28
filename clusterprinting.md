@@ -52,3 +52,19 @@ Effekt: Der Gruppen-Ausdruck erfolgt nur noch 1 Mal.
 ```
 
 Da der Update des Generierungsstatus in einem separaten Thread statt findet, kann es sein dass beim Test der Status auf der RDB noch nicht sichtbar ist.
+
+
+## Korrektur 3
+
+Der Generierungsstatus wird sofort persistiert:
+
+```mermaid
+  graph TD;
+      A[Generierungsserver]-->G[Generierung];
+      G-->B[Update Generierungsstatus];
+      B--Generierung_beendet-->C[Event Konsument = neuer Thread];
+      B-->T[Test alle generiert?];
+      T-->O[Gruppen Ausgabe];
+```
+
+Somit findet der Test für die Gruppenausgabe immer die aktuellsten Stati vor.
