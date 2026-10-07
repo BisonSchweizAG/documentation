@@ -3,10 +3,10 @@ Hands-On Lab (Sven Reimers, Zoran Sevarac)
 
 Eine interessante Mischung von aktuellen Java Tools - unbedingt ausprobieren ;-)
 
-- Die neueste Version des JTaccuino Studio von https://github.com/jtaccuino/jtaccuino/releases herunterladen und installieren
-- Das .zip File von https://github.com/jtaccuino/devoxx-2026-hol/releases herunterladen und ins lokale `~/.m2` Verzeichnis entpacken
-- Das Repo `git@github.com:jtaccuino/devoxx-2026-hol.git` klonen
-- Mit dem Browser das File `devoxx-2026-hol/narrative/web/index.html` im geklonten Repo öffnen und damit die Notebooks im `/notebooks/exercises` Ordner durcharbeiten - es gibt auch `/notebooks/solutions`
+- die neueste Version des JTaccuino Studio von https://github.com/jtaccuino/jtaccuino/releases herunterladen und installieren
+- das .zip File von https://github.com/jtaccuino/devoxx-2026-hol/releases herunterladen und ins lokale `~/.m2` Verzeichnis entpacken
+- das Repo `git@github.com:jtaccuino/devoxx-2026-hol.git` klonen
+- mit dem Browser das File `devoxx-2026-hol/narrative/web/index.html` im geklonten Repo öffnen und damit die Notebooks im `/notebooks/exercises` Ordner durcharbeiten - es gibt auch `/notebooks/solutions`
 
 Tipp: Das erwähnte GitHub Token braucht man nicht.
 
@@ -25,7 +25,7 @@ mit Abbruch- und Ausnahmebedingungen (unter Verwendung von `StructuredTaskScope`
 Für meinen Geschmack hat es am Anfang etwas viel "Data Driven Programming" - es fühlt sich an wie ein kaum endendes Refactoring von `record`s.
 Aber dann wird es spannender. Also empfehlenswert (siehe auch Tipps).
 
-- Klone https://github.com/JosePaumard/2026_DevoxxBE-Loom-lab.git
+- klone https://github.com/JosePaumard/2026_DevoxxBE-Loom-lab.git
 - arbeite `DevoxxBE-Loom-Lab.md` durch
 
 
@@ -34,3 +34,20 @@ Tipps:
 - Man kann auch Schritte überspringen und weiter hinten fortfahren
 
 Zeitbedarf: mindestens 4 h
+
+
+# Analyze and Optimize Your Applications with JFR
+
+Hands-On Lab  (Ana-Maria Mihalceanu, José Paumard)
+
+Ein sehr gut vorbreitetes Lab, das ohne Probleme alleine durchgearbeitet werden kann.
+
+Sehr empfehlenswert, um einen ersten Eindruck über JFR (Java Flight Recorder) zu bekommen.
+Ich habe gelernt, wie ich mit dem jfr Tool aus einem laufenden Java Prozess Informationen holen kann.
+Und wie ich selbst JFR Events schreiben kann.
+
+- klone git@github.com:java/j126-hol-jfr.git
+- Beginne mit dem `README`
+
+
+Zeitbedarf: mindestens 3 h
