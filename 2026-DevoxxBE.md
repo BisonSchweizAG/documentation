@@ -66,4 +66,27 @@ Richard Gross
 Der Titel sagt eigentlich schon allse...
 
 https://m.devoxx.com/events/dvbe26/talks/7011/secure-your-coding-agent-like-it-s-malware
+
 https://www.youtube.com/watch?v=GLJGhkxMdgU&list=PLKlmOVksNGoE&index=40&pp=iAQB
+
+
+# Teaching a New Dog Old Tricks: Give the Agent a Debugger
+
+Anton Arhipov
+
+https://m.devoxx.com/events/dvbe26/talks/23533/teaching-a-new-dog-old-tricks-give-the-agent-a-debugger
+
+https://www.youtube.com/watch?v=rk22mStXsGU
+
+
+# One tool to rule them all: bash, a tiny LLM, and the birth of a coding agent
+
+Philippe Charrière
+
+Konstuiert mit Bash und einem lokalen LLM einen Coding Agent.
+
+https://m.devoxx.com/events/dvbe26/talks/22911/one-tool-to-rule-them-all-bash-a-tiny-llm-and-the-birth-of-a-coding-agent
+
+https://www.youtube.com/watch?v=wWfj4AJahlQ
+
+
