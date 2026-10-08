@@ -51,3 +51,19 @@ Und wie ich selbst JFR Events schreiben kann.
 
 
 Zeitbedarf: mindestens 3 h
+
+---
+
+Das war es von den Hands-On Labs, nun zu den Vorträgen, die auch online sind.
+
+# Devoxx BE 2020 Youtube Playlist
+Die ganze Playlist findet man hier:
+https://www.youtube.com/playlist?list=PLKlmOVksNGoE
+
+# Secure Your Coding Agent Like It’s Malware
+Richard Gross
+
+Der Titel sagt eigentlich schon allse...
+
+https://m.devoxx.com/events/dvbe26/talks/7011/secure-your-coding-agent-like-it-s-malware
+https://www.youtube.com/watch?v=GLJGhkxMdgU&list=PLKlmOVksNGoE&index=40&pp=iAQB
