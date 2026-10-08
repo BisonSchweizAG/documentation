@@ -90,3 +90,17 @@ https://m.devoxx.com/events/dvbe26/talks/22911/one-tool-to-rule-them-all-bash-a-
 https://www.youtube.com/watch?v=wWfj4AJahlQ
 
 
+# Will Valhalla Fix Tony's Billion-Dollar Mistake?
+
+José Paumard, Rémi Forax
+
+Value Klassen mit all ihren Vorteilen und Einschränkungen ausführlich erklärt.
+Muss man gesehen haben. Insbesondere wenn Mario mal wieder fragt, ob wir einfach auf `value class`es umstellen könnten...
+
+Zum Ausprobieren:
+ - `sdk install java 28.0.0.0+ea.18-open` (oder von https://jdk.java.net/28/ herunterladen)
+ - auf die neueste IntelliJ Version upgraden und Java 28 ea, `X Experimental features` sowie `--enable-preview` einschalten)
+
+https://m.devoxx.com/events/dvbe26/talks/15354/will-valhalla-fix-tony-s-billion-dollar-mistake
+
+https://www.youtube.com/watch?v=vLDbzmiT7Xs
