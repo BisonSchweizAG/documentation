@@ -46,7 +46,7 @@ Sehr empfehlenswert, um einen ersten Eindruck über JFR (Java Flight Recorder) z
 Ich habe gelernt, wie ich mit dem jfr Tool aus einem laufenden Java Prozess Informationen holen kann.
 Und wie ich selbst JFR Events schreiben kann.
 
-- klone git@github.com:java/j126-hol-jfr.git
+- klone `git@github.com:java/j126-hol-jfr.git`
 - Beginne mit dem `README`
 
 
@@ -238,9 +238,69 @@ https://www.youtube.com/watch?v=cbSl8UVdMVg&list=PLKlmOVksNGoE&index=56&pp=iAQB
 
 Maurizio Cimadamore
 
+Dies ist im Moment nicht der Fokus für Bison Process. Aber es könnte mal wichtig werden, wenn wir gröbere Dinge aufrufen müssten.
+
 https://m.devoxx.com/events/dvbe26/talks/23527/project-detroit-from-foreign-libraries-to-foreign-language-runtimes
 
 https://www.youtube.com/watch?v=JWFZY0aJTjg&list=PLKlmOVksNGoE&index=3&pp=iAQB
 
+
+# High-Performance Java-Native AI with CUDA and the Vector API
+
+Zoran Sevarac
+
+Siehe auch https://www.deepnetts.com/.
+
+Die Zusammenfassung triffts recht gut:
+https://m.devoxx.com/events/dvbe26/talks/22947/high-performance-java-native-ai-with-cuda-and-the-vector-api
+
+https://www.youtube.com/watch?v=8NURE3I4AJQ&list=PLKlmOVksNGoE&index=9&pp=iAQB
+
+
+# The Yearly Java Performance Update for 2026
+
+Per-Ake Minborg
+
+Gute Übersicht, was in der Plattform so alles gemacht wurde. Am Anfang gibts - bewusst - keine Folien, also aufgepasst ;-)
+
+https://m.devoxx.com/events/dvbe26/talks/23543/the-yearly-java-performance-update-for-2026
+
+https://www.youtube.com/watch?v=rNOzf12RORI&list=PLKlmOVksNGoE&index=12&pp=iAQB
+
+
+# The Devoxx Robot Games
+
+Game Autoren
+
+9 frisch erstellte Konferenz-Spiele -> sehr sehenswert!
+
+Die seien alle online spielbar...
+
+https://m.devoxx.com/events/dvbe26/talks/52103/the-devoxx-robot-games
+
+https://www.youtube.com/watch?v=NT0wyPM58G8&list=PLKlmOVksNGoE&index=30&pp=iAQB
+
+
+# Ask the Architects
+
+Java Architekten
+
+Das traditionelle Panel. Man lernt nicht sehr viel neues, aber erhält Hintergrundinformationen über gewisse Entscheidungen.
+
+https://m.devoxx.com/events/dvbe26/talks/23536/ask-the-architects
+
+https://www.youtube.com/watch?v=ewCPBgOrLAE&list=PLKlmOVksNGoE&index=47&pp=iAQB
+
+
+# Modernizing legacy code with AI: hands-on examples & lessons learned
+
+Koen Vanderkimpen, Wim Lambrecht
+
+SMALS ist ein Software-Anbieter für das belgische Gesundheitswesen. Sie haben tatsächlich im Jahre 2026 ihre Software von JavaEE auf JakartaEE migriert, mittels AI.
+Beruhigend ist: andere kochen auch nur mit Wasser.
+
+https://m.devoxx.com/events/dvbe26/talks/49255/modernizing-legacy-code-with-ai-hands-on-examples-lessons-learned
+
+https://www.youtube.com/watch?v=FvVe9J0Abjg&list=PLKlmOVksNGoE&index=58&pp=iAQB
 
 
