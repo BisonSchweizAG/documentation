@@ -60,6 +60,7 @@ Das war es von den Hands-On Labs, nun zu den Vorträgen, die auch online sind.
 Die ganze Playlist findet man hier:
 https://www.youtube.com/playlist?list=PLKlmOVksNGoE
 
+
 # Secure Your Coding Agent Like It’s Malware
 Richard Gross
 
@@ -160,7 +161,7 @@ Eine sehr gut verständliche Erklärung, wie Garbage Kollektoren funktionieren
 
 https://m.devoxx.com/events/dvbe26/talks/9008/g1-zgc-shenandoah-with-all-these-gcs-in-java-which-one-do-i-choose
 
-(online leider nicht gefunden)
+(online leider - noch - nicht gefunden)
 
 ---
 Zwischendurch, so zur Entspannung, ein paar KI-generierte Kurzfilme "Die Devoxx Miniserie". Sie wurden uns in den Pausen präsentiert.
@@ -198,5 +199,48 @@ Und dieser auch
 https://m.devoxx.com/events/dvbe26/talks/31455/half-of-a-billion-idle-gpus-the-case-for-on-device-ai
 
 https://www.youtube.com/watch?v=qFTuteOEtsE&list=PLKlmOVksNGoE&index=14&pp=iAQB
+
+
+# Teaching an Old Handle New Tricks: From Core Reflection to FFM
+
+Maurizio Cimadamore, Viktor Klang
+
+Eine spannende Geschichte, wie Method Handles den Weg für FFM (Foreign Function an Memory API) ebneten.
+
+https://m.devoxx.com/events/dvbe26/talks/21666/teaching-an-old-handle-new-tricks-from-core-reflection-to-ffm
+
+https://www.youtube.com/watch?v=6hGsgHiRJe4&list=PLKlmOVksNGoE&index=38&pp=iAQB
+
+
+# GraalVM Next: Layers, Crema, and WebAssembly in Action
+
+Alina Yurenko, Thomas Wuerthinger
+
+Die geschichtete Architektur war für mich ziemlich neu. Das Sahnehäubchen zuoberst (`Crema`) lässt voll interpretierten Java Bytecode zu (Reflection, dynamisches Klassenladen).
+
+https://m.devoxx.com/events/dvbe26/talks/24212/graalvm-next-layers-crema-and-webassembly-in-action
+
+https://www.youtube.com/watch?v=OLQ98Ko4p3Q&list=PLKlmOVksNGoE&index=49&pp=iAQB
+
+
+# Quarkus Meets Leyden at the JVM Performance Edge
+
+Georgios Andrianakis, Ana-Maria Mihalceanu
+
+Man lernt, was Quarkus tun musste, um voll von AOT zu profitieren.
+
+https://m.devoxx.com/events/dvbe26/talks/5510/quarkus-meets-leyden-at-the-jvm-performance-edge
+
+https://www.youtube.com/watch?v=cbSl8UVdMVg&list=PLKlmOVksNGoE&index=56&pp=iAQB
+
+
+# Project Detroit: From Foreign Libraries to Foreign Language Runtimes
+
+Maurizio Cimadamore
+
+https://m.devoxx.com/events/dvbe26/talks/23527/project-detroit-from-foreign-libraries-to-foreign-language-runtimes
+
+https://www.youtube.com/watch?v=JWFZY0aJTjg&list=PLKlmOVksNGoE&index=3&pp=iAQB
+
 
 
