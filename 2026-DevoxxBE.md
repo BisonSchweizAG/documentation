@@ -304,3 +304,28 @@ https://m.devoxx.com/events/dvbe26/talks/49255/modernizing-legacy-code-with-ai-h
 https://www.youtube.com/watch?v=FvVe9J0Abjg&list=PLKlmOVksNGoE&index=58&pp=iAQB
 
 
+# Everyday JSON
+
+Viktor Klang, Alan Bateman
+
+JSON direkt mit Java parsen und erstellen (für einfache Fälle). Ich finde es nützlich, Rémi findet es schrecklich (falsch designtes API) -> ?
+
+https://m.devoxx.com/events/dvbe26/talks/23539/everyday-json
+
+https://www.youtube.com/watch?v=5y_82lCevHg&list=PLKlmOVksNGoE&index=61&pp=iAQB
+
+
+# Production-Ready Java Containers: Smaller, Faster, Smarter
+
+Albert Attard
+
+Diesen Vortrag lege ich allen unseren Service-Autoren (die Docker Images erzeugen) wärmstens ans Herz. 
+Man lernt, 
+- wie das im Container mit Java Umgebungsvariablen wirklich funkioniert, 
+- wie man die Runtime optimal verkleinert, 
+- wie man den Container optimal verkleinert und versiegelt.
+
+https://m.devoxx.com/events/dvbe26/talks/51601/production-ready-java-containers-smaller-faster-smarter
+
+https://www.youtube.com/watch?v=LPhGSgO5eKE&list=PLKlmOVksNGoE&index=62&pp=iAQB
+
