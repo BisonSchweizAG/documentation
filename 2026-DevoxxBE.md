@@ -129,3 +129,37 @@ https://m.devoxx.com/events/dvbe26/talks/8194/write-java-code-like-a-seasoned-ha
 https://www.youtube.com/watch?v=Upd5ZqUn1qY&list=PLKlmOVksNGoE&index=3&pp=iAQB
 
 
+# Structured Concurrency Looms
+
+Alan Bateman, Viktor Klang
+
+Dieser Vortrag festig nochmals, was man im Hands-On Lab gelernt hat.
+
+https://m.devoxx.com/events/dvbe26/talks/29351/structured-concurrency-looms
+
+https://www.youtube.com/watch?v=aow56RgptLA&list=PLKlmOVksNGoE&index=9&pp=iAQB
+
+
+# Engineering for the Long Haul: Operating Open Source at Scale
+
+Sven Sellen
+
+Eher eine Werbeveranstaltung, aber mit interessanten Ansätzen. Er behauptet, für zahlende Kunden ihren ganzen Dependency Baum von CVE's zu befreien.
+
+https://m.devoxx.com/events/dvbe26/talks/49253/engineering-for-the-long-haul-operating-open-source-at-scale
+
+https://www.youtube.com/watch?v=Pg5kS8l9CpI&list=PLKlmOVksNGoE&index=23&pp=iAQB
+
+
+
+# G1, ZGC, Shenandoah, ... with all these GCs in Java, which one do I choose?
+
+Antoine Dessaigne
+
+Eine sehr gut verständliche Erklärung, wie Garbage Kollektoren funktionieren
+
+https://m.devoxx.com/events/dvbe26/talks/9008/g1-zgc-shenandoah-with-all-these-gcs-in-java-which-one-do-i-choose
+
+(online leider nicht gefunden)
+
+
