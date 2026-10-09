@@ -177,3 +177,26 @@ https://www.youtube.com/watch?v=CscMBNKvQA8&list=PLKlmOVksNGoE&index=4&pp=iAQB
 Viel Spass!
 ---
 
+
+# From Brainless to Brilliant — Giving an Open-Source Robot a Mind of Its Own
+
+Jan Van Wassenhove
+
+Dieser Teil der Willkommens-Keynote hat mich ziemlich beeindruckt.
+
+https://m.devoxx.com/events/dvbe26/talks/50102/from-brainless-to-brilliant-giving-an-open-source-robot-a-mind-of-its-own
+
+https://www.youtube.com/watch?v=ZDocIlx7Zvg&list=PLKlmOVksNGoE&index=13&pp=iAQB
+
+
+# Half of a billion Idle GPUs: The Case for On-Device AI
+
+Prince Canuma
+
+Und dieser auch
+
+https://m.devoxx.com/events/dvbe26/talks/31455/half-of-a-billion-idle-gpus-the-case-for-on-device-ai
+
+https://www.youtube.com/watch?v=qFTuteOEtsE&list=PLKlmOVksNGoE&index=14&pp=iAQB
+
+
