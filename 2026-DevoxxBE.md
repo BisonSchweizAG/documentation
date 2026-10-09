@@ -96,11 +96,36 @@ José Paumard, Rémi Forax
 
 Value Klassen mit all ihren Vorteilen und Einschränkungen ausführlich erklärt.
 Muss man gesehen haben. Insbesondere wenn Mario mal wieder fragt, ob wir einfach auf `value class`es umstellen könnten...
+Eine Einschränkung ist zum Beispiel: Es ist keine Klassenhierarchie möglich, einzig eine `abstract value class` kann `extends` werden.
 
 Zum Ausprobieren:
  - `sdk install java 28.0.0.0+ea.18-open` (oder von https://jdk.java.net/28/ herunterladen)
  - auf die neueste IntelliJ Version upgraden und Java 28 ea, `X Experimental features` sowie `--enable-preview` einschalten)
 
+Wichtig, jetzt schon vorzubereiten (hilft auch allgemein):
+- Verwendungen von `==` eliminieren, insbesondere in `.equals()` Implementationen
+
 https://m.devoxx.com/events/dvbe26/talks/15354/will-valhalla-fix-tony-s-billion-dollar-mistake
 
 https://www.youtube.com/watch?v=vLDbzmiT7Xs
+
+https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+
+
+# Write Java Code Like a Seasoned Hacker: 2026 Edition
+
+Soroosh Khodami
+
+Sehr empfehlenswert. Ich war beeindruckt von den Supply/Build Chain Attacken.
+
+Was er uns nahelegt:
+- nur Standard Repositories verwenden (Maven Central, jcenter), *keine* "Schubidu" Repositories
+- falls man doch eine Bibliothek aus einem "Schubidu" Repository braucht: Die benötigte Version herunterladen, scannen und ins eigene Artifactory stellen
+- unser Artifactory darf aus dem Internet nicht erreichbar sein
+- eigene Bibliotheken signieren
+
+https://m.devoxx.com/events/dvbe26/talks/8194/write-java-code-like-a-seasoned-hacker-2026-edition
+
+https://www.youtube.com/watch?v=Upd5ZqUn1qY&list=PLKlmOVksNGoE&index=3&pp=iAQB
+
+
