@@ -162,4 +162,18 @@ https://m.devoxx.com/events/dvbe26/talks/9008/g1-zgc-shenandoah-with-all-these-g
 
 (online leider nicht gefunden)
 
+---
+Zwischendurch, so zur Entspannung, ein paar KI-generierte Kurzfilme "Die Devoxx Miniserie". Sie wurden uns in den Pausen präsentiert.
+
+Kinepolis im Jahr 2170:
+https://www.youtube.com/watch?v=FFRdupUFpL0&list=PLKlmOVksNGoE&index=2&pp=iAQB
+
+Die Singularität:
+https://www.youtube.com/watch?v=9Uz6lyElOL0&list=PLKlmOVksNGoE&index=3&pp=iAQB
+
+Die Rebellion:
+https://www.youtube.com/watch?v=CscMBNKvQA8&list=PLKlmOVksNGoE&index=4&pp=iAQB
+
+Viel Spass!
+---
 
