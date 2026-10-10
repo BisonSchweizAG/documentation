@@ -319,13 +319,55 @@ https://www.youtube.com/watch?v=5y_82lCevHg&list=PLKlmOVksNGoE&index=61&pp=iAQB
 
 Albert Attard
 
-Diesen Vortrag lege ich allen unseren Service-Autoren (die Docker Images erzeugen) wärmstens ans Herz. 
-Man lernt, 
-- wie das im Container mit Java Umgebungsvariablen wirklich funkioniert, 
-- wie man die Runtime optimal verkleinert, 
+Diesen Vortrag lege ich allen unseren Service-Autoren (die Docker Images erzeugen) wärmstens ans Herz.
+Man lernt,
+- wie das im Container mit Java Umgebungsvariablen wirklich funkioniert,
+- wie man die Runtime optimal verkleinert,
 - wie man den Container optimal verkleinert und versiegelt.
 
 https://m.devoxx.com/events/dvbe26/talks/51601/production-ready-java-containers-smaller-faster-smarter
 
 https://www.youtube.com/watch?v=LPhGSgO5eKE&list=PLKlmOVksNGoE&index=62&pp=iAQB
 
+
+# Why it takes 3000 commits to bring Valhalla's value objects to the JDK
+
+David Simms
+
+Dieser Vortrag erklärt (natürlich nur teilweise), wie Valhalla implementiert wurde. Von dem Typen, der ca. 10 Jahre lang jede Woche den main Branch in den Valhalla Feature Branch gemerged hat. Chapeau!
+
+https://m.devoxx.com/events/dvbe26/talks/21694/why-it-takes-3000-commits-to-bring-valhalla-s-value-objects-to-the-jdk
+
+Noch nicht auf YouTube
+
+
+
+# What’s happening with Project Amber?
+
+Gavin Bierman
+
+Gute, leicht verständliche Erläuterungen, was an kleinen Verbesserungen in der Sprache passierte und ziemlich sicher passieren wird. Empfehlenswert.
+
+https://m.devoxx.com/events/dvbe26/talks/21655/what-s-happening-with-project-amber
+
+Noch nicht auf YouTube
+
+
+
+# Java Next - From Valhalla to Leyden, from Babylon to Panama, from Amber to Detroit
+
+Nicolai Parlog (https://nipafx.dev)
+
+Eine sehr gute Zusammenfassung der Java Themen, die an der Devoxx besprochen wurden.
+
+https://m.devoxx.com/events/dvbe26/talks/52101/java-next-from-valhalla-to-leyden-from-babylon-to-panama-from-amber-to-detroit
+
+Noch nicht auf YouTube, aber diese online Präsentation ist verfügbar. Sie hat Links, mit denen man mehr Infos erhält: https://slides.nipafx.dev/java-next/#/.
+
+Die Anleitung von Nicolai: "If the slides are focussed, you can navigate with arrow keys or swipes (they're two-dimensional, with chapters on the horizontal axis and chapter content layed out vertically). Use Page Up/Down for linearized order and ? for more shortcuts."
+
+
+---
+
+
+Das waren die Vorträge, die ich besucht habe.
