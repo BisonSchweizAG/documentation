@@ -175,6 +175,9 @@ https://www.youtube.com/watch?v=9Uz6lyElOL0&list=PLKlmOVksNGoE&index=3&pp=iAQB
 Die Rebellion:
 https://www.youtube.com/watch?v=CscMBNKvQA8&list=PLKlmOVksNGoE&index=4&pp=iAQB
 
+Und dann noch Devoxx Thank You, ausserhalb der Mini Serie:
+https://www.youtube.com/watch?v=lW1faHx-guk&list=PLKlmOVksNGoE&index=67&pp=iAQB0gcJCTcMAYcqIYzv
+
 Viel Spass!
 ---
 
