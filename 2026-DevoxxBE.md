@@ -348,7 +348,8 @@ Dieser Vortrag erklärt (natürlich nur teilweise), wie Valhalla implementiert w
 
 https://m.devoxx.com/events/dvbe26/talks/21694/why-it-takes-3000-commits-to-bring-valhalla-s-value-objects-to-the-jdk
 
-Noch nicht auf YouTube
+https://www.youtube.com/watch?v=D_AmK8-UnZg&list=PLKlmOVksNGoE&index=8&pp=iAQB0gcJCTAMAYcqIYzv
+
 
 
 
@@ -360,7 +361,7 @@ Gute, leicht verständliche Erläuterungen, was an kleinen Verbesserungen in der
 
 https://m.devoxx.com/events/dvbe26/talks/21655/what-s-happening-with-project-amber
 
-Noch nicht auf YouTube
+https://www.youtube.com/watch?v=Go76-9Q51wU&list=PLKlmOVksNGoE&index=15&pp=iAQB
 
 
 
@@ -372,7 +373,9 @@ Eine sehr gute Zusammenfassung der Java Themen, die an der Devoxx besprochen wur
 
 https://m.devoxx.com/events/dvbe26/talks/52101/java-next-from-valhalla-to-leyden-from-babylon-to-panama-from-amber-to-detroit
 
-Noch nicht auf YouTube, aber diese online Präsentation ist verfügbar. Sie hat Links, mit denen man mehr Infos erhält: https://slides.nipafx.dev/java-next/#/.
+https://www.youtube.com/watch?v=ufhs9THbYZI&list=PLKlmOVksNGoE&index=6&pp=iAQB
+
+Es ist auch eine online Präsentation verfügbar. Sie hat Links, mit denen man mehr Infos erhält: https://slides.nipafx.dev/java-next/#/.
 
 Die Anleitung von Nicolai: "If the slides are focussed, you can navigate with arrow keys or swipes (they're two-dimensional, with chapters on the horizontal axis and chapter content layed out vertically). Use Page Up/Down for linearized order and ? for more shortcuts."
 
